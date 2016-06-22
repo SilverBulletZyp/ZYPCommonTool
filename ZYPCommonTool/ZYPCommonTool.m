@@ -231,6 +231,7 @@
 
 #pragma mark - 临时
 
+// 无#号
 + (UIColor *)getColor:(NSString *)hexColorString
 {
     unsigned red,green,blue;
